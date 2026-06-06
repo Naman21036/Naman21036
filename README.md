@@ -30,11 +30,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repos
+## 🔝 GitHub Activity
 
 <div align="center">
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Naman21036&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide=B,B+)
+![Naman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naman21036&theme=tokyo-night&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Naman21036&color=blue&style=flat-square&label=Profile+Views)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
