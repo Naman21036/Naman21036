@@ -12,12 +12,12 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFB000?style=for-the-badge)![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge)![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Naman21036&theme=tokyonight&v=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naman21036&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naman21036&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naman21036&icon=0&color=4)](https://visitcount.itsvg.in)
