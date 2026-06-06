@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Quant focused ML and probability projects<br>👯 I’m looking to collaborate on open source algorithms and systems<br>🌱 I’m currently learning system design, DSA and ML fundamentals<br>💬 Ask me about Algorithms data structures competitive programming optimization math and modeling<br>🛠️ I’m looking for help with scalable system design principles production grade high performance code<br>⚡ Fun fact : I optimize until nothing remains
+🔭 Currently building AI/ML applications focused on Retrieval Augmented Generation (RAG), LLM powered systems, and intelligent document processing<br>🌱 Learning Machine Learning, Deep Learning, MLOps, System Design, and scalable AI system development<br>💡 Interested in applied AI, algorithmic problem solving, optimization, probabilistic modeling, and data driven decision making<br>🛠️ Working with Python, LangChain, FastAPI, FAISS, Docker, and modern AI infrastructure<br>📚 Strong foundation in Data Structures, Algorithms, Competitive Programming, and Machine Learning fundamentals<br>🎯 Aspiring AI/ML Engineer with a focus on building production ready intelligent systems and impactful AI products<br>⚡ Passionate about turning complex ideas into scalable and efficient solutions
 
 
 ## 🌐 Socials:
