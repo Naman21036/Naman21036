@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![GitHub Streak](https://streak-stats.demolab.com?user=Naman21036&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman21036&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naman21036&icon=0&color=4)](https://visitcount.itsvg.in)
