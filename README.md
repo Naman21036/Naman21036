@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman21036&layout=compact&theme=tokyonight&hide_border=true)
+![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Naman21036&icon=0&color=4)](https://visitcount.itsvg.in)
