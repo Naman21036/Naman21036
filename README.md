@@ -11,6 +11,22 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFB000?style=for-the-badge)![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge)![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman21036&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Naman21036&theme=tokyonight&hide_border=true)
+
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-trophies.vercel.app/?username=Naman21036&theme=tokyonight&no-frame=true&row=1&column=7)
 ### ✍️ Random Dev Quote
