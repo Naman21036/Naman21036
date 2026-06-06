@@ -10,10 +10,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B3FF2?style=for-the-badge&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFB000?style=for-the-badge)![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge)![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naman21036&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![]https://github-readme-streak-stats.herokuapp.com/?user=Naman21036&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman21036&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Naman21036&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
