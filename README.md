@@ -30,10 +30,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## 🔝 Top Contributed Repos
 
----
-[![](https://visitcount.itsvg.in/api?id=Naman21036&icon=0&color=4)](https://visitcount.itsvg.in)
+<div align="center">
 
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Naman21036&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide=B,B+)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
