@@ -30,6 +30,29 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+<!-- UPDATE: Replace repo names below with your actual GitHub repository names -->
+<a href="https://github.com/Naman21036/rag-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=rag-pipeline&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Naman21036/multi-agent-llm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=multi-agent-llm&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Naman21036/ml-experiments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=ml-experiments&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Naman21036/fastapi-ml-service">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=fastapi-ml-service&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
 ## Tech Stack
 
 ### AI / ML Core
@@ -99,6 +122,14 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 
 </div>
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/naman_2136?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/naman_2136)
+&nbsp;&nbsp;
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=naman_2136&theme=dark&force_username=true)](https://codeforces.com/profile/naman_2136)
+
+</div>
+
 ---
 
 ## Contribution Activity
@@ -106,6 +137,16 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 <div align="center">
 
 [![Naman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naman21036&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naman21036/Naman21036/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naman21036/Naman21036/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Naman21036/Naman21036/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -126,8 +167,11 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-gupta-944aa434b)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_naman2136)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namangupta2132@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_naman2136)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/naman_2136)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/naman_2136)
 
 </div>
 
