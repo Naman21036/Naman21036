@@ -34,19 +34,18 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 
 <div align="center">
 
-<!-- UPDATE: Replace repo names below with your actual GitHub repository names -->
-<a href="https://github.com/Naman21036/rag-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=rag-pipeline&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Naman21036/EduGenie">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=EduGenie&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Naman21036/multi-agent-llm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=multi-agent-llm&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Naman21036/VolFlux">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=VolFlux&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/Naman21036/ml-experiments">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=ml-experiments&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Naman21036/SentinelAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=SentinelAI&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Naman21036/fastapi-ml-service">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=fastapi-ml-service&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Naman21036/Fraudshield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naman21036&repo=Fraudshield&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
