@@ -87,7 +87,7 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naman21036&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman21036&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175"/>
 
