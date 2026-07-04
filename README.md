@@ -30,6 +30,7 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 
 ---
 
+<!--
 ## Featured Projects
 
 <div align="center">
@@ -51,6 +52,8 @@ I'm an aspiring **AI/ML Engineer** focused on building intelligent, production-r
 </div>
 
 ---
+-->
+
 
 ## Tech Stack
 
